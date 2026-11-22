@@ -7,7 +7,11 @@ Application code talks to simple functions such as `LED_On(LED_GREEN)` or
 
 ## Demo
 
-<!-- Drag and drop the demo video here in the GitHub editor -->
+
+
+https://github.com/user-attachments/assets/ad9ab9b4-5655-4b90-be9d-0fb98f1f320e
+
+
 
 The demo shows all four modules running together:
 
